@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @FerrenDeveloper
-- 👀 I’m interested in coding NodeJS app, creating websites etc
-- 🌱 I’m currently developig my bot Ferren https://ferren.live
+- 👀 I’m interested in coding NodeJS app, React JS apps, creating websites etc
+- 🌱 I’m currently developig my bot Ferren https://ferren.fr.to
 - 💞️ I’m looking to collaborate on Discord @kuatercraft
 - 📫 Reach me on discord
 - Looking forward to collaborat
